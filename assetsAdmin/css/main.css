@@ -1,0 +1,19 @@
+.bg-dashboard-meta {
+	background-color: #2f4858;
+}
+.bg-auth {
+	background-color: #2f4858;
+}
+.bg-mycourse {
+	height: 210px;
+	background-color: #ffdb43;
+}
+.user-image {
+	max-height: 200px;
+}
+.image-sertifikasi {
+	max-height: 400px;
+}
+.logo-kursus {
+	max-height: 100px;
+}
